@@ -64,5 +64,14 @@ https://youtu.be/ZaP5qFSIcIw?t=3802</br>
 - [Основы докера](https://www.youtube.com/playlist?list=PLQJ7ptkRY-xbR0ka2TUxJkXna40XWu92m)
 - [Основы веб-сервисов](https://www.youtube.com/playlist?list=PLQJ7ptkRY-xYLEAC5Y_sKqrJ9RA-U7Dja)
 
+# Дополнительные материалы
+- [Как работает градиентный бустинг](https://youtu.be/ZNJ3lKyI-EY)
+- [Как учить английский](https://youtu.be/f9Q4Mwvd5pc)
+- [Как искать работу](https://deepnote.com/@gleb-mikhaylov-15d6/blog-posts-nXDqO5CTQYOreNE53H3y-A)
+<br>
+<h3>Спасибо, что заглянули 📋</h3>
 
-
+<!--
+Поставь звёздочку пожалуйста
+:) 
+-->

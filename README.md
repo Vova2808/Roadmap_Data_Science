@@ -70,6 +70,25 @@ https://youtu.be/ZaP5qFSIcIw?t=3802</br>
 - [Как учить английский](https://youtu.be/f9Q4Mwvd5pc)
 - [Как искать работу](https://deepnote.com/@gleb-mikhaylov-15d6/blog-posts-nXDqO5CTQYOreNE53H3y-A)
 <br>
+
+# Ещё два хороших родмап 
+
+
+<h3>Первый родмап Habr</h3>
+
+- [Первый родмап](https://tproger.ru/articles/roadmap-data-science-2023?ysclid=lt3bfnt7d598163940)
+<img src="https://media.tproger.ru/uploads/2023/08/2075ded8-3e0c-48b1-82e8-369971322255-scaled.jpg">
+<br>
+
+
+<h3>Второй родмап от Tproger</h3>
+
+- [Второй родмап](https://habr.com/ru/articles/785064/)
+<img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/0b6/749/f21/0b6749f212f1bc3b4758bccefd562e2b.png">
+<br>
+<img src="https://habrastorage.org/r/w1560/getpro/habr/upload_files/b89/392/269/b893922698c9f5b04e2c7e2b5a922b04.jpeg">
+<br>
+
 <h3>Спасибо, что заглянули 📋</h3>
 
 <!--
